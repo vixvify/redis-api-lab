@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cldy1abcd00008mi3g4h5j6k1",
+    "name": "Somsak Rakdee",
+    "email": "somsak.r@example.com",
+    "createdAt": "2026-06-05T02:00:00.000Z",
+    "updatedAt": "2026-06-05T02:00:00.000Z"
+  },
+  {
+    "id": "cldy2efgh00018mi3g4h5j6k2",
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "createdAt": "2026-06-05T02:05:00.000Z",
+    "updatedAt": "2026-06-05T02:05:00.000Z"
+  },
+  {
+    "id": "cldy3ijkl00028mi3g4h5j6k3",
+    "name": "Wichai Jaidee",
+    "email": "wichai.j@example.com",
+    "createdAt": "2026-06-05T02:10:00.000Z",
+    "updatedAt": "2026-06-05T02:10:00.000Z"
+  },
+  {
+    "id": "cldy4mnop00038mi3g4h5j6k4",
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "createdAt": "2026-06-05T02:15:00.000Z",
+    "updatedAt": "2026-06-05T02:15:00.000Z"
+  },
+  {
+    "id": "cldy5qrst00048mi3g4h5j6k5",
+    "name": "Nattaporn Srisuk",
+    "email": "nattaporn.s@example.com",
+    "createdAt": "2026-06-05T02:20:00.000Z",
+    "updatedAt": "2026-06-05T02:20:00.000Z"
+  }
+]
